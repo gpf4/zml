@@ -3,7 +3,7 @@ MAINTAINER gpf4 64307297@qq.com
 
 # Install packages
 #RUN yum install openssh-server
-
+service sshd start
 #Change 163 mirrors
 ADD sources.list /etc/apt/sources.list
 
