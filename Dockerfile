@@ -1,2 +1,2 @@
-FROM yayu/centos-i386
+FROM bytecat/lnmp
 MAINTAINER gpf4 <gpf4@gmail.com>
