@@ -2,7 +2,7 @@ FROM index.alauda.cn/yayu/centos-i386:6
 MAINTAINER gpf4 64307297@qq.com
 
 # Install packages
-RUN yum install openssh-server
+#RUN yum install openssh-server
 
 #Change 163 mirrors
 ADD sources.list /etc/apt/sources.list
