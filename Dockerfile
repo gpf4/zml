@@ -1,2 +1,2 @@
-FROM yayu/centos-i386
-MAINTAINER alaudadoc alaudadoc@alauda.cn
+FROM centos-i386
+MAINTAINER gpf4 gpf4@alauda.cn
