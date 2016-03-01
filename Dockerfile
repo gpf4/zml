@@ -1,4 +1,4 @@
-FROM index.alauda.cn/swht/centos6:tag
+FROM index.alauda.cn/starnet/centos6.5:v1.0.0
 MAINTAINER gpf4 64307297@qq.com
 
 # Install packages
