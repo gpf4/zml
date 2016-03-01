@@ -1,2 +1,2 @@
-FROM centos-i386
-MAINTAINER yayu
+FROM index.alauda.cn/yayu/centos-i386
+MAINTAINER yayu,zml
