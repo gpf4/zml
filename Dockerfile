@@ -1,2 +1,2 @@
-FROM centos-i386
-MAINTAINER yayu <yayu@gmail.com>
+FROM ubuntu:trusty
+MAINTAINER alaudadoc alaudadoc@alauda.cn
