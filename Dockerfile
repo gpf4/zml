@@ -1,2 +1,2 @@
-FROM lnmp
-MAINTAINER bytecat <bytecat@gmail.com>
+FROM centos-i386
+MAINTAINER yayu <yayu@gmail.com>
