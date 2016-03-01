@@ -1,4 +1,4 @@
-FROM index.alauda.cn/yayu/centos6-i386:6
+FROM index.alauda.cn/yayu/centos6-i386:latest
 MAINTAINER gpf4 64307297@qq.com
 
 # Install packages
