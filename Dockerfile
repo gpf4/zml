@@ -1,2 +1,2 @@
-FROM centos-i386
+FROM yayu/centos-i386
 MAINTAINER alaudadoc alaudadoc@alauda.cn
