@@ -1,2 +1,2 @@
 FROM index.alauda.cn/yayu/centos-i386
-MAINTAINER yayu,zml
+MAINTAINER imByteCat <imbytecat@gmail.com>
